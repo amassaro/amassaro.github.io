@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font: 13.34px helvetica, arial, clean, sans-serif;
+  *font-size: small;
+  text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+  margin-top: 2em;
+  line-height: 1em;
+}
+
+h1 {
+  margin-bottom: 1em;
+  line-height: 1em;
+}
+
+p {
+  margin: 1em 0;
+}
