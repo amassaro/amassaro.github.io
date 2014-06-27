@@ -1,10 +1,15 @@
 ---
-layout: default
+layout: home
 title: Anthony Massaro
+tags: [blog, code, csharp, javascript, programming]
+image:
+  feature: texture-feature-01.jpg
+  credit: Texture Lovers
+  creditlink: http://texturelovers.com
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>The Pipe</h1>
   <ul class="posts">
     {% for post in site.posts %}
       {% unless post.draft %}
