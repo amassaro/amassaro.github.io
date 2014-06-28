@@ -4,8 +4,8 @@ title: Anthony Massaro
 tags: [blog, code, csharp, javascript, programming]
 image:
   feature: home.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  credit: Anthony Massaro
+  creditlink:
 ---
 
 <div id="home">

@@ -7,9 +7,9 @@ tags: [about]
 modified: 6-27-2014
 comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: about.jpg
+  credit: Anthony Massaro
+  creditlink:
 ---
 
 Coming Soon!
