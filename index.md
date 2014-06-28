@@ -3,7 +3,7 @@ layout: home
 title: Anthony Massaro
 tags: [blog, code, csharp, javascript, programming]
 image:
-  feature: texture-feature-01.jpg
+  feature: home.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
