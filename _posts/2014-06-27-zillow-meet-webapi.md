@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 
+title: From Old to Gold 
 tags: [csharp webapi knockoutjs zillow]
 comments: true
 ---
 
 
-### From Old to Gold
+###{{ page.title }}
 
 Recently I came across some old code that I wanted to showcase. Back in 2007 I had made some efforts to create a C# web service wrapper. It was working at the time yet it was never fully implemented and as such I never did anything useful with it. Fast forward to a few days ago. In matter of a few hours I was able to revive the project (yes it still ran with all the VS upgrades) and then some.
 
