@@ -11,12 +11,12 @@ owner:
   bio:            "Edoc Ot Evol"
   email:          amassaro78@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
+  twitter: AnthonyMassaro
+  facebook: massaro.anthony
+  github: amassaro
   stackoverflow:
-  linkedin:
-  instagram:
+  linkedin: anthonymassaro
+  instagram: nicedreams242
   lastfm:
   tumblr:
   pinterest:
@@ -24,7 +24,7 @@ owner:
   steam:
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus: AnthonyMassaro
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
