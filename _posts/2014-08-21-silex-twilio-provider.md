@@ -11,4 +11,4 @@ So a while ago I threw together a small app in Silex. It was pretty simple. Rece
 
 With the desire to learn more about [Silex](http://silex.sensiolabs.org) and [Packagist](https://packagist.org) for that matter, I decided that I would start using GitHub more and make the package available to the public.
 
-The source can be found here [https://github.com/amassaro/silex-twilio-provider] and the packagist info here [https://packagist.org/packages/amassaro/silex-twilio-provider].
+The source can be found here [https://github.com/amassaro/silex-twilio-provider](https://github.com/amassaro/silex-twilio-provider) and the packagist info here [https://packagist.org/packages/amassaro/silex-twilio-provider](https://packagist.org/packages/amassaro/silex-twilio-provider).
