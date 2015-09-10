@@ -3,7 +3,7 @@ layout: home
 title: Anthony Massaro
 tags: [blog, code, csharp, javascript, programming]
 image:
-  feature: home.jpg
+  feature: heart.jpg
   credit: Anthony Massaro
   creditlink:
 ---
