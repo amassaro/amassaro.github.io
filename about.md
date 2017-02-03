@@ -12,7 +12,7 @@ image:
   creditlink:
 ---
 
-### Life
+### Live
 
 I am passionate coder, proud father of 2 boys, and avid fisherman. I've also been known to dream in code every now and then. 2014 is the first year I decided to make a large effort to grow many of my own veggies and plan on continuing that in the coming years as I take pride in it and it's fun. I have found it enjoyable as well as nutritious. The hard part is managing enough planter space in the concrete jungle of the southern California home I live in to maximize the yields. None the less, I enjoy the cultivation process and harvesting reward.
 
