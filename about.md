@@ -14,11 +14,11 @@ image:
 
 ### Live
 
-I am passionate coder, proud father of 2 boys, and avid fisherman. I've also been known to dream in code every now and then. 2014 is the first year I decided to make a large effort to grow many of my own veggies and plan on continuing that in the coming years as I take pride in it and it's fun. I have found it enjoyable as well as nutritious. The hard part is managing enough planter space in the concrete jungle of the southern California home I live in to maximize the yields. None the less, I enjoy the cultivation process and harvesting reward.
+I am passionate coder, proud father of 2 boys and 1 girl, and an avid fisherman. I've also been known to dream in code every now and then. 2014 is the first year I decided to make a large effort to grow many of my own veggies and plan on continuing that in the coming years as I take pride in it and it's fun. I have found it enjoyable as well as nutritious. The hard part is managing enough planter space in the concrete jungle of the southern California home I live in to maximize the yields. None the less, I enjoy the cultivation process and harvesting reward. Nowadays I spend my time on a sporting event field somewhere in the South Western USA.
 
 ### Code
 
-I have dabbled in everything under the Sun but the 2 languages I gravitate to are C# and PHP. These are my strongest languages and yet I am not afraid to try anything new. I have more professional experience in web (years wise) but I have been known to bust out backend console, services, and forms applications if the job calls for it.
+I have dabbled in everything under the Sun but the languages I gravitate to are C#, PHP and Javascript / Typescript. These are my strongest languages and yet I am not afraid to try anything new. More recently I've been looking into Rust and Go. I have more professional experience in web (years wise) but I have been known to bust out backend console, services, and forms applications if the job calls for it.
 
 ### Fish
 
